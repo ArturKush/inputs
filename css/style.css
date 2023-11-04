@@ -80,7 +80,7 @@ body {
     url(../src/icons/yellowsmallfoot.svg) right bottom no-repeat,
     url(../src/icons/redbigfoot.svg) left bottom no-repeat;
   height: 200px;
-  padding: 79px 150px 104px;
+  padding: 80px 150px 104px;
 }
 .social {
   margin: 0;
